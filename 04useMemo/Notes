@@ -1,0 +1,11 @@
+useMemo Hook - The React useMemo Hook returns a memoized value. (it's like caching a value so that it doesn't
+need to be recalculated)
+
+The useMemo Hook only runs when one of its dependencies gets updated.
+
+The can imporove the performance of the application. there is one more hook in react to improve 
+performance, that is useCallback hook.
+
+The useMemo and useCallback Hooks are similar. the main difference is:
+-useMemo return a memoized value.
+-useCallback return  a memoized value function.

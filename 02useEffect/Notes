@@ -1,0 +1,5 @@
+useEffect - the useEffect Hook allows you to perform side effects in your components.
+Some examples of side effect are:
+Fetching data from API
+Directly updating the DOM
+Timers like SetTimeOut and SetInterval

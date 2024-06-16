@@ -1,0 +1,5 @@
+useLayoutEffect - useLayoutEffect works similarily to useEffect, 
+but it is called before the User interface gets mounted.
+
+useEffect gets called after printing the DOM elements.
+useLayoutEffect gets called before printing the DOM elements

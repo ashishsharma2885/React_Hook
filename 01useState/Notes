@@ -1,0 +1,2 @@
+useState - useState is a react hook, ehich create an "state variable".
+which helps us to track state in components and updates the user interface when state changes.
